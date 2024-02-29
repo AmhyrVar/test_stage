@@ -1,0 +1,8 @@
+"0",""
+"0",""
+"0","ggplot(patient_diag, aes(x = son_label)) +"
+"0","  geom_bar(fill = ""lightgreen"") +"
+"0","  labs(title = ""Répartitions des types d'Epidermolyses"","
+"0","       x = ""Epidermolyses"","
+"0","       y = ""Nombre de patients"")+"
+"0","  theme(axis.text.x = element_text(angle = 60, hjust = 1)) "
